@@ -1,4 +1,4 @@
 ﻿# Goooo
 # Goooo
 
-https://vijaygovindbiju.github.io/Goooo/
+https://JustPirate.github.io/Goooo/
